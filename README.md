@@ -1,0 +1,1 @@
+The "SystemConfiguration_Generator" application allows automatic generation of Soft Panels System Configuration.cfg file needed for integration of the Soft Panel application with the Execution Engine.
